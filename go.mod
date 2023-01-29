@@ -1,4 +1,4 @@
-module github.com/containernetworking/plugins
+module github.com/LinsongGuo/plugins
 
 go 1.17
 
